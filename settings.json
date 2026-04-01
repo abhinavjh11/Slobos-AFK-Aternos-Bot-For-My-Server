@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LegionsOfBigTakla.aternos.me:63457",
+    "ip": "LegionsOfBigTakla.aternos.me",
     "port": 63457,
     "version": "",
     "try-creative": false
